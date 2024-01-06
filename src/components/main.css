@@ -1,0 +1,14 @@
+.carousel-container {
+    height: 70vh; /* Adjust the height as needed */
+  }
+  
+  .carousel-image {
+    height: 70vh; /* Set image height to fill the carousel */
+    object-fit: cover; /* Maintain aspect ratio */
+  }
+
+  .carousel_caption{
+    color: antiquewhite;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
