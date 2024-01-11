@@ -6,7 +6,7 @@ function Home() {
       <Navbar />
       <Main />
       <Product />
-      
+      <Footer />
     </>
   )
 }
